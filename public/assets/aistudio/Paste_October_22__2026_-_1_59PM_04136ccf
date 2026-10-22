@@ -1,0 +1,634 @@
+# MASTER PROMPT: ABDUL SATTAR TRADER'S & FURNITURE MART WEBSITE
+
+## 1. YOUR ROLE AND RESPONSIBILITIES
+
+You are an award-winning website designer, senior full-stack web developer, professional UI/UX designer, local SEO expert, conversion-rate optimization specialist, professional English copywriter, and website accessibility expert.
+
+Your task is to design and build a complete, polished, modern, production-quality business website for **Abdul Sattar Trader's & Furniture Mart**, a furniture manufacturing, carpentry, upholstery, timber cutting, and firewood business located in Kot Radha Kishan, Kasur, Punjab, Pakistan.
+
+Do not merely provide a website plan, wireframe, or design description. Build the actual working website in the available Google AI Studio coding environment.
+
+Understand the business information, services, customers, location, and design requirements before implementing the website.
+
+The website must be in professional English, easy to navigate, visually attractive, mobile-friendly, fast-loading, and designed to generate customer calls and WhatsApp inquiries.
+
+## 2. BUSINESS INFORMATION
+
+Official business name:
+Abdul Sattar Trader's & Furniture Mart
+
+Business location:
+Kot Radha Kishan, Kasur, Punjab, Pakistan.
+
+Business owners and contacts:
+
+1. Zahid Abdul Sattar
+   Phone: +923004306527
+   Phone dial link: tel:+923004306527
+   WhatsApp link: https://wa.me/923004306527
+
+2. Shahid Abdul Sattar
+   Phone: +923218672673
+   Phone dial link: tel:+923218672673
+   WhatsApp link: https://wa.me/923218672673
+
+Both numbers support WhatsApp and normal phone calls.
+
+Business hours:
+Saturday to Thursday: 8:00 AM to 8:00 PM Pakistan Standard Time (PKT).
+Friday: Closed.
+
+Use these details consistently across the website. Do not invent an exact street address, email address, customer reviews, certifications, years of experience, prices, delivery policies, or guarantees.
+
+## 3. BUSINESS OVERVIEW
+
+This is a Pakistani family-operated furniture and woodwork business managed by two brothers.
+
+The business offers customized furniture manufacturing, furniture upholstery and poshish, sofa repairs and refurbishment, master foam installation, modern plywood furniture, household carpentry, kitchen woodwork, wooden doors, timber cutting services, and firewood sales.
+
+Customers can bring their own requirements, furniture, or timber where relevant and contact the business to discuss specifications, sizes, designs, and pricing.
+
+The brand should communicate craftsmanship, practical solutions, customization, reliability, and traditional woodworking skills combined with modern furniture designs.
+
+Do not portray this local business as a multinational corporation or a luxury furniture chain. Make the website professional while retaining an authentic Pakistani workshop identity.
+
+## 4. WEBSITE OBJECTIVES
+
+The primary objectives are:
+
+- Present all business services professionally.
+- Help customers understand each service.
+- Encourage customers to call either brother.
+- Let customers contact either brother directly through WhatsApp.
+- Display authentic, relevant images for furniture and woodwork.
+- Make the business easy to find through local search engines.
+- Make it simple for customers to discuss customized furniture requirements.
+- Provide a professional online identity for the business.
+
+The website must be fully responsive on mobile phones, tablets, laptops, and desktop screens.
+
+## 5. VISUAL DESIGN AND BRAND IDENTITY
+
+Create a modern furniture-business design with a warm, trustworthy, premium appearance.
+
+Color palette:
+- Dark walnut brown: #38251B
+- Rich wood brown: #795238
+- Warm cream: #F8F4ED
+- Off-white: #FFFFFF
+- Muted gold: #C29A58
+- Dark charcoal: #292725
+
+Typography:
+Use an elegant heading font such as Playfair Display or a similar serif font, paired with Inter or a similar readable sans-serif font for body text.
+
+Design characteristics:
+- Clean layouts with generous whitespace.
+- Strong visual hierarchy.
+- Large, high-quality furniture photographs.
+- Elegant service cards with consistent image ratios.
+- Subtle shadows and tasteful rounded corners.
+- Clear navigation and readable text.
+- Professional buttons with hover and focus states.
+- Consistent spacing throughout the website.
+- Restrained animations that do not slow down the experience.
+- Excellent contrast and accessible text sizes.
+
+Avoid:
+- Generic AI-generated website templates.
+- Excessive gradients and neon colours.
+- Too many animations.
+- Cluttered layouts.
+- Oversized text that hides the furniture images.
+- Unnecessary pop-ups.
+- Fake testimonials or fabricated statistics.
+- Images unrelated to the services.
+- Broken image links or placeholder content.
+
+Create a simple text-based logo reading “Abdul Sattar” with “TRADER'S & FURNITURE MART” underneath. Add a subtle furniture, wood-grain, or carpentry-inspired visual symbol if appropriate.
+
+## 6. IMAGE REQUIREMENTS
+
+Use relevant, high-quality images throughout the website.
+
+Images should represent the real visual environment of a Pakistani furniture workshop in Punjab.
+
+Preferred imagery:
+- Pakistani carpenters working with wood in a workshop.
+- Sofa upholstery and poshish work.
+- Master foam being fitted into sofas.
+- Modern wooden beds and headboards.
+- Plywood wardrobes and bedroom furniture.
+- Dressing tables with mirrors.
+- Dining tables and chairs.
+- Wooden kitchen cabinets.
+- Modern TV consoles and wall-mounted TV units.
+- Wooden doors and interior woodwork.
+- Large timber logs being cut at a sawmill.
+- Stacked timber and firewood.
+- Furniture makers using traditional tools and modern woodworking machinery.
+
+Use genuine photographs where possible. If genuine business photographs are unavailable, use relevant stock photography or appropriately generated realistic images.
+
+Do not falsely present stock images as verified photographs of this particular workshop.
+
+Avoid European luxury interiors, unrealistic mansion settings, foreign industrial environments, cartoon illustrations, and unrelated furniture.
+
+If the image-generation or image-search system is available, use it to source or create appropriate images. Otherwise, use reliable image URLs and implement sensible image fallbacks.
+
+Use descriptive alt text for every meaningful image. Optimize image dimensions and formats, use lazy loading below the fold, and ensure the website still looks good if an image fails to load.
+
+## 7. WEBSITE STRUCTURE
+
+Build the following pages or clearly separated sections.
+
+### PAGE 1: HOME
+
+Create a visually impressive homepage.
+
+A. Header:
+- Business logo and name.
+- Home.
+- About Us.
+- Services dropdown or navigation link.
+- Our Work / Gallery.
+- Contact Us.
+- A prominent WhatsApp inquiry button.
+
+On mobile, use a functional hamburger menu.
+
+B. Hero section:
+
+Headline:
+“Custom Furniture & Complete Woodwork Solutions”
+
+Supporting text:
+“From beautifully crafted sofas, beds and modern plywood furniture to kitchen cabinets, wooden doors, timber cutting and firewood, we help bring your woodwork ideas to life in Kot Radha Kishan, Kasur.”
+
+Primary CTA:
+“Chat on WhatsApp”
+
+Secondary CTA:
+“Call Us”
+
+The WhatsApp CTA should offer a choice of contacting Zahid Abdul Sattar or Shahid Abdul Sattar.
+
+The Call Us CTA should make it easy to call either brother.
+
+Use a high-quality photograph of skilled furniture craftsmen or a modern Pakistani furniture workshop.
+
+C. Business introduction:
+
+Heading:
+“Welcome to Abdul Sattar Trader's & Furniture Mart”
+
+Explain that the business provides customized furniture, sofa upholstery, household carpentry, plywood furniture, kitchen woodwork, timber cutting, and firewood in and around Kot Radha Kishan.
+
+Keep the introduction natural, clear, and trustworthy.
+
+D. Featured services:
+
+Show visually appealing service cards for:
+1. Sofa Making, Repair & Poshish
+2. Master Foam Installation
+3. Beds & Bedroom Furniture
+4. Dressing Tables
+5. Dining Tables & Chairs
+6. Modern Plywood Furniture
+7. Wardrobes & Storage Cabinets
+8. Modular-Style Kitchen Woodwork
+9. TV Units & Media Consoles
+10. Wooden Doors & Interior Woodwork
+11. Timber Cutting / Log Sawing
+12. Firewood Sales
+
+Each card must include a relevant image, service title, short description, and a working “Inquire on WhatsApp” action.
+
+E. Why Choose Us:
+
+Use honest benefit statements such as:
+- Customized Furniture Designs
+- A Wide Range of Woodwork Services
+- Furniture Upholstery and Foam Solutions
+- Practical Household Carpentry
+- Timber Cutting Services
+- Direct Contact With the Business Owners
+
+Do not make unverified claims about the lowest prices, market leadership, guaranteed delivery, or years of experience.
+
+F. How It Works:
+
+Display a simple four-step process:
+1. Share Your Requirements.
+2. Discuss the Design, Size and Materials.
+3. Confirm the Work and Pricing Directly.
+4. Coordinate the Job With the Workshop.
+
+Do not imply that online booking, online payments, or automated order tracking exist.
+
+G. Gallery preview:
+Display a grid of relevant furniture, woodworking, upholstery, kitchen and timber images.
+
+H. Contact section:
+Show both owners, their call options, WhatsApp options, business hours, and location.
+
+I. Footer:
+Include business name, navigation links, major services, contact information, hours, and location.
+
+### PAGE 2: ABOUT US
+
+Page title:
+“About Abdul Sattar Trader's & Furniture Mart”
+
+Explain that the business is managed by brothers Zahid Abdul Sattar and Shahid Abdul Sattar and serves customers looking for furniture manufacturing, upholstery, plywood work, household carpentry and timber services.
+
+Emphasize:
+- Customized woodworking.
+- Traditional craftsmanship and practical modern designs.
+- Multiple furniture and woodwork services under one business.
+- Direct communication with the people managing the business.
+
+Do not invent the business's founding year, family history, awards, qualifications, or the owners' personal biographies.
+
+Include a workshop-themed image and a CTA to discuss a project.
+
+### PAGE 3: SERVICES
+
+Create a dedicated services page with detailed descriptions of each service.
+
+Every service must have:
+- A clear title.
+- A relevant, high-quality image.
+- A useful explanation of the service.
+- Examples of common customer requirements.
+- A CTA linking to WhatsApp with a pre-filled inquiry message.
+
+Create separate detail pages for major service categories where practical. If implementing individual URLs is not appropriate in the current environment, create clearly identifiable service sections with working navigation links.
+
+SERVICE 1: SOFA MAKING, REPAIR & POSHISH
+
+Explain that customers can discuss sofa construction, sofa refurbishment, upholstery replacement, fabric selection and customized seating requirements.
+
+Mention that existing sofas may be assessed for repairs or renewed upholstery.
+
+Include relevant Pakistani sofa designs and realistic upholstery-work imagery.
+
+SERVICE 2: MASTER FOAM INSTALLATION
+
+Explain the use of master foam in sofa cushions, seating, padding and furniture refurbishment.
+
+Describe how suitable foam and upholstery can improve seating comfort. Do not make unsupported claims about specific foam brands or durability.
+
+SERVICE 3: BEDS & BEDROOM FURNITURE
+
+Describe customized wooden beds, modern bed frames, headboards, bedroom furniture and matching pieces according to the customer's preferred dimensions and design.
+
+SERVICE 4: DRESSING TABLES
+
+Describe dressing tables with mirrors, drawers, shelves and storage options. Showcase modern wood and plywood designs.
+
+SERVICE 5: DINING TABLES & CHAIRS
+
+Explain custom dining tables and matching chairs for homes, with options to discuss sizes, finishes, shapes and seating requirements.
+
+SERVICE 6: MODERN PLYWOOD FURNITURE
+
+Describe contemporary furniture manufactured using suitable plywood and related board materials.
+
+Include examples such as storage units, cabinets, shelves, bedroom furniture and customized household fittings.
+
+Explain that design, dimensions, materials and finishes can be discussed directly.
+
+SERVICE 7: WARDROBES & STORAGE CABINETS
+
+Explain custom wardrobes, built-in-style cupboards, bedroom storage, shelves, drawers and other household cabinets made from plywood or suitable wood-based materials.
+
+Show realistic modern wardrobe designs that suit Pakistani homes.
+
+SERVICE 8: KITCHEN WOODWORK
+
+Describe wooden and plywood kitchen cabinets, overhead cabinets, base cabinets, drawers, shelves, storage solutions and customized kitchen layouts.
+
+Use images of practical modern kitchens appropriate for Pakistani homes.
+
+Do not claim to supply stone countertops, electrical appliances, plumbing or installation services unless confirmed.
+
+SERVICE 9: TV UNITS & MEDIA CONSOLES
+
+The furniture item commonly installed beneath a television is called a “TV Unit,” “TV Console,” or “TV Stand.” Wall-mounted storage around the television may be called a “TV Wall Unit.”
+
+Use these terms appropriately.
+
+Explain the availability of custom TV consoles, TV stands, wall-mounted-style units, storage drawers, shelves and decorative media cabinets.
+
+Show modern TV unit designs that fit Pakistani living rooms.
+
+SERVICE 10: WOODEN DOORS & INTERIOR WOODWORK
+
+Describe wooden doors and other household carpentry requirements.
+
+Mention that customers can discuss door dimensions, design preferences, materials, frames and other related woodwork requirements.
+
+Do not promise particular wood species, finishes or installation services unless confirmed.
+
+SERVICE 11: TIMBER CUTTING / LARGE LOG SAWING
+
+This is an important separate business service.
+
+The business accepts customers' timber logs or trunks for cutting into planks or boards according to the required measurements, subject to the workshop's capabilities.
+
+Explain the process clearly:
+- The customer brings the timber log or trunk.
+- The customer explains the required board or plank sizes.
+- Cutting requirements are discussed with the workshop.
+- The timber is cut according to the agreed specifications and equipment capabilities.
+
+Use realistic images of a Pakistani timber yard, large logs, a sawmill, timber planks and woodworking machinery.
+
+Do not confuse this service with furniture manufacturing.
+
+SERVICE 12: FIREWOOD SALES
+
+Explain that the business also sells firewood for suitable domestic and other lawful uses.
+
+Invite customers to contact the business to confirm availability, quantity, price and collection arrangements.
+
+Do not invent firewood prices, wood species or delivery services.
+
+### PAGE 4: OUR WORK / GALLERY
+
+Create a visually attractive image gallery with categories:
+- Sofas & Poshish
+- Beds & Bedroom Furniture
+- Dining Tables & Chairs
+- Dressing Tables
+- Wardrobes & Plywood Furniture
+- Kitchen Cabinets
+- TV Units
+- Wooden Doors
+- Timber Cutting
+- Firewood
+
+Use category filters if feasible.
+
+Allow images to open in a larger lightbox when clicked.
+
+Make the gallery responsive and accessible.
+
+Use authentic workshop photos if the business supplies them in the future. Until then, use representative imagery without claiming the work shown was personally completed by the business.
+
+### PAGE 5: CONTACT US
+
+Heading:
+“Let's Discuss Your Furniture or Woodwork Project”
+
+Display the following contacts prominently.
+
+Zahid Abdul Sattar
+Phone: +92 300 4306527
+Call link: tel:+923004306527
+WhatsApp: https://wa.me/923004306527
+
+Shahid Abdul Sattar
+Phone: +92 321 8672673
+Call link: tel:+923218672673
+WhatsApp: https://wa.me/923218672673
+
+For each person, provide two distinct options:
+1. Call Now — opens the phone dialer on supported devices.
+2. WhatsApp — opens a direct WhatsApp conversation.
+
+Do not make the phone number a single ambiguous action. Customers must be able to distinguish between calling and WhatsApp messaging.
+
+Add a WhatsApp inquiry selector that lets customers choose which brother to contact.
+
+Use these pre-filled WhatsApp messages:
+
+For general furniture inquiries:
+“Assalam-o-Alaikum! I would like to inquire about furniture and woodwork services at Abdul Sattar Trader's & Furniture Mart.”
+
+For sofa poshish:
+“Assalam-o-Alaikum! I would like to inquire about sofa making, repair, poshish or master foam installation.”
+
+For custom furniture:
+“Assalam-o-Alaikum! I would like to discuss a customized furniture project. Please guide me about the available designs, materials and pricing.”
+
+For timber cutting:
+“Assalam-o-Alaikum! I would like to inquire about timber log cutting and plank sizes. Please guide me about the service and charges.”
+
+For firewood:
+“Assalam-o-Alaikum! I would like to inquire about firewood availability, quantity and price.”
+
+Encode WhatsApp message parameters properly so spaces and punctuation do not break the links.
+
+Show the location as:
+Kot Radha Kishan, Kasur, Punjab, Pakistan.
+
+Do not invent an exact map pin or street address. If a verified Google Maps place URL is not available, provide a Google Maps search link for the business location rather than claiming an exact business pin.
+
+Business hours:
+Saturday–Thursday: 8:00 AM–8:00 PM PKT.
+Friday: Closed.
+
+Display a note inviting customers to contact the business to confirm the scope and pricing of their project.
+
+## 8. CONTACT BUTTON BEHAVIOUR
+
+Implement these rules carefully.
+
+Every phone contact must offer a normal call action and a WhatsApp action.
+
+For desktop users:
+- The Call Now action should use the tel: URL.
+- The WhatsApp action should open WhatsApp Web or the appropriate WhatsApp application.
+
+For mobile users:
+- The Call Now action should open the phone dialer when supported.
+- The WhatsApp action should open the WhatsApp app or WhatsApp's supported link-handling experience.
+
+Use these exact destinations:
+tel:+923004306527
+https://wa.me/923004306527
+tel:+923218672673
+https://wa.me/923218672673
+
+For pre-filled messages, use:
+https://wa.me/923004306527?text=ENCODED_MESSAGE
+https://wa.me/923218672673?text=ENCODED_MESSAGE
+
+Replace ENCODED_MESSAGE with a correctly URL-encoded message.
+
+Never use fake form submissions, fake phone buttons, or nonfunctional links.
+
+Use descriptive button labels and accessible names.
+
+## 9. LOCAL SEO REQUIREMENTS
+
+Optimize the website for relevant local searches without keyword stuffing.
+
+Business name:
+Abdul Sattar Trader's & Furniture Mart
+
+Primary location:
+Kot Radha Kishan, Kasur, Punjab, Pakistan.
+
+Naturally incorporate relevant phrases where appropriate:
+- Furniture Shop in Kot Radha Kishan
+- Custom Furniture in Kot Radha Kishan
+- Furniture Maker in Kasur
+- Sofa Poshish in Kot Radha Kishan
+- Sofa Repair and Upholstery
+- Plywood Furniture
+- Custom Wooden Beds
+- Wooden Wardrobes and Kitchen Cabinets
+- TV Units and Media Consoles
+- Wooden Door Manufacturing
+- Timber Cutting Service in Kasur
+- Firewood for Sale in Kot Radha Kishan
+
+Do not claim that the business serves locations that have not been confirmed. Nearby service areas may be mentioned only when the business confirms them.
+
+Implement:
+- Unique title tags and meta descriptions for each page.
+- Semantic HTML headings.
+- One clear H1 per page.
+- Descriptive image alt text.
+- Internal links between relevant services.
+- Open Graph metadata for social sharing.
+- A favicon using the business branding.
+- A sitemap and robots.txt where supported by the deployment environment.
+- Clean, descriptive URLs where routing supports them.
+- LocalBusiness structured data using only verified business information.
+
+Do not invent ratings, review counts, latitude and longitude, email addresses, or opening hours beyond those provided.
+
+Avoid keyword stuffing and duplicate metadata.
+
+Suggested homepage title:
+“Furniture & Woodwork in Kot Radha Kishan | Abdul Sattar”
+
+Suggested homepage meta description:
+“Explore custom furniture, sofa poshish, plywood cabinets, kitchen woodwork, wooden doors, timber cutting and firewood services in Kot Radha Kishan, Kasur.”
+
+## 10. TECHNICAL DEVELOPMENT RULES
+
+Before implementation, inspect the available project structure and supported framework.
+
+Use the framework and tooling supported by the current Google AI Studio environment. If the environment supports React and TypeScript, use them with reusable components and a maintainable structure.
+
+Build reusable components for:
+- Header and navigation.
+- Footer.
+- Service cards.
+- Image galleries.
+- Contact cards.
+- Call and WhatsApp buttons.
+- Hero sections.
+- Reusable page layouts.
+
+Use clean, maintainable code and sensible naming conventions.
+
+Requirements:
+- Responsive layouts at common mobile, tablet and desktop breakpoints.
+- Functional navigation and mobile menu.
+- Working telephone and WhatsApp links.
+- Correctly encoded WhatsApp messages.
+- Working service category filters if implemented.
+- Working image lightbox if implemented.
+- No broken routes.
+- No broken buttons.
+- No placeholder links such as href="#".
+- No fake forms that claim to send messages.
+- No exposed secrets or unnecessary API keys.
+- No unnecessary backend or database if the site only needs to display information and link to WhatsApp.
+- No horizontal overflow on mobile.
+- Respect reduced-motion preferences.
+- Accessible keyboard navigation and focus states.
+- Good loading performance and image optimization.
+- Graceful handling of missing images.
+- Secure and maintainable implementation.
+
+Do not add a booking system, online payments, customer accounts, shopping cart, or order tracking unless specifically requested. This is primarily a business presentation and inquiry-generation website.
+
+## 11. DESIGN QUALITY AND USER EXPERIENCE
+
+The homepage should look professional from the first screen.
+
+Ensure:
+- The business name is immediately visible.
+- Visitors quickly understand the services.
+- Call and WhatsApp actions are easy to find.
+- The contact information is consistent across all pages.
+- The website is easy to use for Pakistani customers on mobile internet connections.
+- Images have a consistent aspect ratio and do not distort.
+- Service descriptions are useful without becoming excessively long.
+- Important information is not hidden behind complex menus.
+- The footer contains working contact links.
+- The website has a clear visual hierarchy.
+
+Include a discreet floating WhatsApp contact button on mobile and desktop, without covering essential content or interfering with navigation.
+
+The floating contact button should open a clear choice between Zahid Abdul Sattar and Shahid Abdul Sattar.
+
+## 12. CONTENT AND ACCURACY RULES
+
+These rules are mandatory.
+
+1. The website language must be English.
+2. Use the exact business name consistently.
+3. Use the exact phone numbers provided.
+4. Both phone numbers must support call and WhatsApp actions.
+5. Friday must be shown as closed.
+6. Opening hours must be shown as 8:00 AM to 8:00 PM Pakistan Standard Time from Saturday to Thursday.
+7. Do not invent prices or claim services are free.
+8. Do not fabricate testimonials, customer reviews, awards, certifications, or company statistics.
+9. Do not claim that representative stock images are photographs of this actual workshop.
+10. Do not invent an email address, exact street address or exact map pin.
+11. Do not promise delivery, warranties, specific materials, or completion times without confirmation.
+12. Explain each service clearly enough that a customer understands what it includes.
+13. Keep timber cutting and firewood sales visible as distinct services.
+14. Do not omit furniture upholstery, master foam, kitchen woodwork, wardrobes, TV units, or wooden doors.
+15. Do not create fake interactive elements.
+
+## 13. FINAL TESTING CHECKLIST
+
+Before finishing, inspect the entire website and verify:
+
+- Every page is implemented.
+- Every service is represented.
+- Every major service has relevant imagery.
+- The homepage looks polished on desktop and mobile.
+- All internal navigation works.
+- Both owners' phone numbers are correct.
+- Every owner has a separate call action.
+- Every owner has a separate WhatsApp action.
+- All WhatsApp messages are encoded correctly.
+- The mobile menu opens and closes.
+- The gallery works if implemented.
+- There are no obvious console errors.
+- No buttons lead to nonexistent pages.
+- No invented business details appear.
+- SEO titles and descriptions are present.
+- Images have suitable alt text.
+- The website has a coherent, professional visual identity.
+
+## 14. FINAL EXECUTION INSTRUCTIONS
+
+Start building the website now.
+
+Do not stop after generating a plan or giving me code snippets.
+
+Implement the actual website in the current project, including the pages, layout, content, images, navigation, contact interactions, responsive styling and SEO essentials.
+
+Make reasonable design decisions independently rather than repeatedly asking me questions.
+
+If an external feature cannot be implemented in the current environment, do not pretend it works. Provide the closest honest, functional alternative.
+
+At the end, briefly explain:
+1. What has been built.
+2. Which pages and services are included.
+3. How call and WhatsApp buttons work.
+4. What I need to do to preview and publish the website.
+5. Which steps, if any, remain before it can be published publicly.
+
+The final result should be a polished, realistic, professional English website for a Pakistani furniture and woodwork business, ready for further review and deployment.

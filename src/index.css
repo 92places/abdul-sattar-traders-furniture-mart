@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --color-walnut: #38251B;
+  --color-wood: #795238;
+  --color-cream: #F8F4ED;
+  --color-gold: #C29A58;
+  --color-charcoal: #292725;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #292725;
+  background-color: #F8F4ED;
+}
+
+.font-serif {
+  font-family: 'Playfair Display', Georgia, serif;
+}
