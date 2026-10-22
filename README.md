@@ -1,6 +1,6 @@
 # Abdul Sattar Trader's & Furniture Mart
 
-**Pure Static HTML5, CSS3 & Vanilla JavaScript Edition**  
+**Pure Static Multi-Page HTML5, CSS3 & Vanilla JavaScript Edition**  
 Ready for 100% Direct Deployment to **GitHub Pages** (Zero Build Process, Zero White Screen Issues).
 
 Official business website for **Abdul Sattar Trader's & Furniture Mart** — custom furniture manufacturing, sofa poshish & upholstery, master foam installation, modern plywood wardrobes & cabinets, wooden doors, sawmill timber log cutting (trolli wala araa), and firewood sales in **Kot Radha Kishan, District Kasur, Punjab, Pakistan**.
@@ -11,8 +11,14 @@ Managed directly by brothers **Zahid Abdul Sattar** (+92 300 4306527) and **Shah
 
 ## 🇵🇰 اردو میں ہدایات (Urdu Instructions)
 
-یہ پوری ویب سائٹ اب **خالص Static HTML، CSS اور خالص JavaScript** میں تبدیل ہو چکی ہے۔  
-اس میں React یا کسی Build Step کی کوئی ضرورت نہیں ہے۔ آپ اسے براہ راست GitHub Pages پر چلا سکتے ہیں، کوئی White Screen یا 404 کا مسئلہ نہیں آئے گا۔
+ویب سائٹ کو آپ کی فرمائش کے مطابق **پہلے والے اصلی ملٹی پیج (Multi-Page) اسٹرکچر** میں بحال کر دیا گیا ہے لیکن اب اس کا کوڈ **خالص Static HTML، CSS اور خالص JavaScript** میں ہے تاکہ گٹ ہب پیجز پر ڈائریکٹ چل سکے۔
+
+### ویب سائٹ کے الگ الگ صفحات (Dedicated Pages):
+1. **`index.html` (Home Page)**: ہیرو سیکشن مع اصلی آرا مشین تصویر، ورکشاپ تعارف، تمام 12 سروسز کا خلاصہ، کسٹم پیمائش اور کوٹیشن کا انٹرایکٹو واٹس ایپ کیلکولیٹر (Estimator)، حالیہ کاموں کی گیلری اور مالکان کے رابطے۔
+2. **`about.html` (About Page)**: ورکشاپ کی تاریخ، روایت اور جدید کاریگری کے اصول، دونوں بھائیوں (زاہد اور شاہد) کے پروفائل کارڈز، اور ورکشاپ سہولیات۔
+3. **`services.html` (Services Page)**: تمام 12 سروسز کی تفصیلی الگ الگ لسٹنگ مع کیٹیگری فلٹرز، کسٹمر کی عام فرمائشیں، اور براہ راست واٹس ایپ انکوائری بٹنز۔
+4. **`gallery.html` (Gallery Page)**: 10 مختلف کیٹیگریز کے ساتھ فوٹو گیلری مع کلک ٹو زوم لائٹ باکس ماڈل (Lightbox Modal) اور ڈیزائن انکوائری۔
+5. **`contact.html` (Contact Page)**: زاہد اور شاہد بھائی کے ڈائریکٹ ڈائلرز، انٹرایکٹو واٹس ایپ میسج کمپوزر (جہاں سے آپ موضوع منتخب کر کے براہ راست واٹس ایپ پر میسج بھیج سکتے ہیں)، گوگل میپس لوکیشن اور ورکشاپ اوقات۔
 
 ### گٹ ہب پیجز (GitHub Pages) پر چلانے کا طریقہ:
 1. اپنے گٹ ہب (GitHub) کے Repository میں جائیے۔
@@ -20,71 +26,22 @@ Managed directly by brothers **Zahid Abdul Sattar** (+92 300 4306527) and **Shah
 3. بائیں جانب مینو میں **Pages** منتخب کریں۔
 4. **Build and deployment** میں:
    - **Source**: `Deploy from a branch`
-   - **Branch**: `main` اور فولڈر `/ (root)` منتخب کریں
+   - **Branch**: `main` اور فولڈر کے لیے **`/ (root)`** یا **`/docs`** منتخب کریں۔
    - **Save** کا بٹن دبا دیں۔
-5. ایک منٹ میں آپ کی ویب سائٹ لائیو ہو جائے گی!
-
----
-
-## ⚡ Key Features Included
-
-1. **Pure Static Architecture**:
-   - `index.html`: Complete semantic HTML5 structure with complete SEO, OpenGraph tags, and Schema.org `HomeGoodsStore` structured data.
-   - `styles.css`: Pure responsive CSS with custom properties (`#38251B`, `#795238`, `#C29A58`, `#F8F4ED`, `#25D366`), zero framework dependencies.
-   - `script.js`: Pure Vanilla JavaScript (mobile menu, category filters, quote calculator, lightbox modal, contact form).
-   - `assets/images/`: 13 authentic workshop photography assets stored locally.
-
-2. **Interactive Measurement & WhatsApp Quote Estimator**:
-   - Customers can select the furniture type (e.g. 5-Seater Sofa, Master Foam Re-foaming, King Size Bed, Plywood Wardrobe, Timber Sawing, Firewood).
-   - Select material (Solid Sheesham, Kikar, Laminated Plywood, Master Molty Foam).
-   - Enter custom room dimensions.
-   - Dynamically creates a formatted Urdu/English WhatsApp message and opens WhatsApp directly to Zahid (0300-4306527) or Shahid (0321-8672673).
-
-3. **Complete 12 Services Catalog**:
-   - Sofa Making, Repair & Poshish
-   - Master Foam Installation (Sofa Re-Foaming)
-   - Beds & Bedroom Sets
-   - Dressing Tables & Mirrors
-   - Dining Tables & Chairs
-   - Modern Plywood Furniture
-   - Wardrobes & Storage Cabinets
-   - Modular Kitchen Woodwork
-   - TV Units & Media Consoles
-   - Wooden Doors & Carpentry
-   - Timber Cutting / Log Sawing (Trolley Sawmill Machine)
-   - Firewood Sales & Platform Scale (Tarazu)
-
-4. **Visual Photo Showcase & Lightbox Modal**:
-   - Filter chips for quick viewing.
-   - Click to zoom with detailed description and 1-click WhatsApp inquiry.
-
-5. **Floating WhatsApp Quick-Contact Button**:
-   - Always available in bottom corner for immediate calls or WhatsApp chats.
-
----
-
-## 🚀 How to Run or Deploy
-
-### Option 1: GitHub Pages (Direct Static)
-- Simply push the repository to GitHub.
-- In **Settings > Pages**, choose **Source: Deploy from a branch**, Branch: `main`, folder: `/ (root)` (or `/docs`).
-- Click **Save**. The website goes live immediately.
-
-### Option 2: Local Browser (No server needed)
-- Double click `index.html` in your file explorer to open it in Google Chrome, Edge, Safari, or Firefox.
-
-### Option 3: Local Dev Server (Optional)
-If you have Node.js installed, you can optionally run:
-```bash
-npm run dev
-```
-to test it on `http://localhost:3000`.
+5. ایک منٹ کے اندر آپ کی ویب سائٹ بغیر کسی ایرر یا وائٹ اسکرین کے لائیو ہو جائے گی!
 
 ---
 
 ## 📁 Repository Structure
 
 ```
+├── index.html                        # Home page (with WhatsApp Quote Estimator)
+├── about.html                        # Dedicated About page (Story & Owners)
+├── services.html                     # Dedicated Services page (All 12 services)
+├── gallery.html                      # Dedicated Gallery page (10 categories & zoom modal)
+├── contact.html                      # Dedicated Contact page (Direct dialers & composer)
+├── styles.css                        # Pure custom CSS stylesheet (responsive)
+├── script.js                         # Pure vanilla JavaScript (menu, filters, modals, estimator)
 ├── assets/
 │   └── images/                       # All 13 local workshop photos
 │       ├── hero-trolley-timber-sawmill.jpg
@@ -100,10 +57,7 @@ to test it on `http://localhost:3000`.
 │       ├── wooden-door-carpentry.jpg
 │       ├── trolley-log-sawing-service.jpg
 │       └── firewood-yard-weighing-scale.jpg
-├── docs/                             # Ready for GitHub Pages /docs branch mode
-├── index.html                        # Pure semantic static HTML5 entry point
-├── styles.css                        # Pure custom CSS stylesheet
-├── script.js                         # Pure vanilla JavaScript
+├── docs/                             # Pre-built copy for GitHub Pages /docs branch
 ├── README.md                         # English & Urdu documentation
 └── metadata.json
 ```
