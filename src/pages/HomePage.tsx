@@ -119,7 +119,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                 <div className="absolute -inset-1 bg-gradient-to-r from-[#C29A58] to-[#795238] rounded-2xl blur-xs opacity-50 transform rotate-1" />
                 <div className="relative rounded-2xl overflow-hidden shadow-2xl border-2 border-[#C29A58]/40 bg-[#292725]">
                   <ImageWithFallback
-                    src="/assets/images/hero-trolley-timber-sawmill.jpg"
+                    src="./assets/images/hero-trolley-timber-sawmill.jpg"
                     alt="Trolley-based sawmill timber log cutting machine actively slicing a large tree trunk into planks in workshop"
                     fallbackTitle="Abdul Sattar Sawmill & Timber Cutting Machine"
                     loading="eager"

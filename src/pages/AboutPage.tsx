@@ -47,7 +47,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onOpenContactModal, onNavi
               <div className="absolute -inset-2 bg-gradient-to-r from-[#C29A58]/30 to-[#795238]/40 rounded-3xl blur-md" />
               <div className="relative rounded-2xl overflow-hidden shadow-xl border-2 border-[#C29A58]/30 bg-stone-900">
                 <ImageWithFallback
-                  src="/assets/images/trolley-log-sawing-service.jpg"
+                  src="./assets/images/trolley-log-sawing-service.jpg"
                   alt="Trolley sawmill machine cutting heavy timber logs in workshop"
                   fallbackTitle="Abdul Sattar Carpentry & Sawmill Workshop"
                   className="w-full h-96 sm:h-[480px] object-cover"

@@ -15,7 +15,19 @@ export const ImageWithFallback: React.FC<ImageWithFallbackProps> = ({
   const [hasError, setHasError] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
 
-  if (hasError || !src) {
+  // Normalize image source to relative path for GitHub Pages and subfolder hosting
+  const resolvedSrc = React.useMemo(() => {
+    if (!src) return '';
+    if (src.startsWith('http://') || src.startsWith('https://') || src.startsWith('data:')) {
+      return src;
+    }
+    if (src.startsWith('/')) {
+      return '.' + src;
+    }
+    return src;
+  }, [src]);
+
+  if (hasError || !resolvedSrc) {
     return (
       <div
         className={`bg-[#38251B] text-[#F8F4ED] flex flex-col items-center justify-center p-6 text-center select-none ${className}`}
@@ -37,7 +49,7 @@ export const ImageWithFallback: React.FC<ImageWithFallbackProps> = ({
         </div>
       )}
       <img
-        src={src}
+        src={resolvedSrc}
         alt={alt}
         loading="lazy"
         decoding="async"
