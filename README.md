@@ -1,126 +1,118 @@
 # Abdul Sattar Trader's & Furniture Mart
 
-Official business website for **Abdul Sattar Trader's & Furniture Mart**, a customized furniture manufacturing, carpentry, upholstery (poshish), master foam installation, sawmill timber log cutting, and firewood business located in Kot Radha Kishan, Kasur, Punjab, Pakistan.
+**Pure Static HTML5, CSS3 & Vanilla JavaScript Edition**  
+Ready for 100% Direct Deployment to **GitHub Pages** (Zero Build Process, Zero White Screen Issues).
 
-Managed directly by brothers **Zahid Abdul Sattar** and **Shahid Abdul Sattar**.
+Official business website for **Abdul Sattar Trader's & Furniture Mart** — custom furniture manufacturing, sofa poshish & upholstery, master foam installation, modern plywood wardrobes & cabinets, wooden doors, sawmill timber log cutting (trolli wala araa), and firewood sales in **Kot Radha Kishan, District Kasur, Punjab, Pakistan**.
 
----
-
-## 🛠 Tech Stack
-
-- **Framework**: [React 19](https://react.dev/)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Bundler & Dev Server**: [Vite 8](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Assets**: Self-contained local photography in `public/assets/images/`
+Managed directly by brothers **Zahid Abdul Sattar** (+92 300 4306527) and **Shahid Abdul Sattar** (+92 321 8672673).
 
 ---
 
-## 🚀 Quick Start & Local Development
+## 🇵🇰 اردو میں ہدایات (Urdu Instructions)
 
-### 1. Prerequisites
-- Node.js (version 18+ or 20+ recommended)
-- npm, yarn, or pnpm
+یہ پوری ویب سائٹ اب **خالص Static HTML، CSS اور خالص JavaScript** میں تبدیل ہو چکی ہے۔  
+اس میں React یا کسی Build Step کی کوئی ضرورت نہیں ہے۔ آپ اسے براہ راست GitHub Pages پر چلا سکتے ہیں، کوئی White Screen یا 404 کا مسئلہ نہیں آئے گا۔
 
-### 2. Installation
-```bash
-npm install
-```
+### گٹ ہب پیجز (GitHub Pages) پر چلانے کا طریقہ:
+1. اپنے گٹ ہب (GitHub) کے Repository میں جائیے۔
+2. اوپر **Settings** پر کلک کریں۔
+3. بائیں جانب مینو میں **Pages** منتخب کریں۔
+4. **Build and deployment** میں:
+   - **Source**: `Deploy from a branch`
+   - **Branch**: `main` اور فولڈر `/ (root)` منتخب کریں
+   - **Save** کا بٹن دبا دیں۔
+5. ایک منٹ میں آپ کی ویب سائٹ لائیو ہو جائے گی!
 
-### 3. Start Development Server
+---
+
+## ⚡ Key Features Included
+
+1. **Pure Static Architecture**:
+   - `index.html`: Complete semantic HTML5 structure with complete SEO, OpenGraph tags, and Schema.org `HomeGoodsStore` structured data.
+   - `styles.css`: Pure responsive CSS with custom properties (`#38251B`, `#795238`, `#C29A58`, `#F8F4ED`, `#25D366`), zero framework dependencies.
+   - `script.js`: Pure Vanilla JavaScript (mobile menu, category filters, quote calculator, lightbox modal, contact form).
+   - `assets/images/`: 13 authentic workshop photography assets stored locally.
+
+2. **Interactive Measurement & WhatsApp Quote Estimator**:
+   - Customers can select the furniture type (e.g. 5-Seater Sofa, Master Foam Re-foaming, King Size Bed, Plywood Wardrobe, Timber Sawing, Firewood).
+   - Select material (Solid Sheesham, Kikar, Laminated Plywood, Master Molty Foam).
+   - Enter custom room dimensions.
+   - Dynamically creates a formatted Urdu/English WhatsApp message and opens WhatsApp directly to Zahid (0300-4306527) or Shahid (0321-8672673).
+
+3. **Complete 12 Services Catalog**:
+   - Sofa Making, Repair & Poshish
+   - Master Foam Installation (Sofa Re-Foaming)
+   - Beds & Bedroom Sets
+   - Dressing Tables & Mirrors
+   - Dining Tables & Chairs
+   - Modern Plywood Furniture
+   - Wardrobes & Storage Cabinets
+   - Modular Kitchen Woodwork
+   - TV Units & Media Consoles
+   - Wooden Doors & Carpentry
+   - Timber Cutting / Log Sawing (Trolley Sawmill Machine)
+   - Firewood Sales & Platform Scale (Tarazu)
+
+4. **Visual Photo Showcase & Lightbox Modal**:
+   - Filter chips for quick viewing.
+   - Click to zoom with detailed description and 1-click WhatsApp inquiry.
+
+5. **Floating WhatsApp Quick-Contact Button**:
+   - Always available in bottom corner for immediate calls or WhatsApp chats.
+
+---
+
+## 🚀 How to Run or Deploy
+
+### Option 1: GitHub Pages (Direct Static)
+- Simply push the repository to GitHub.
+- In **Settings > Pages**, choose **Source: Deploy from a branch**, Branch: `main`, folder: `/ (root)` (or `/docs`).
+- Click **Save**. The website goes live immediately.
+
+### Option 2: Local Browser (No server needed)
+- Double click `index.html` in your file explorer to open it in Google Chrome, Edge, Safari, or Firefox.
+
+### Option 3: Local Dev Server (Optional)
+If you have Node.js installed, you can optionally run:
 ```bash
 npm run dev
 ```
-The website will start at `http://localhost:3000` (or the port indicated in your console).
+to test it on `http://localhost:3000`.
 
-### 4. Build for Production
-```bash
-npm run build
+---
+
+## 📁 Repository Structure
+
 ```
-This compiles the application and outputs the optimized static production bundle into the `dist/` directory.
-
-### 5. Preview Production Build
-```bash
-npm run preview
+├── assets/
+│   └── images/                       # All 13 local workshop photos
+│       ├── hero-trolley-timber-sawmill.jpg
+│       ├── sofa-making-poshish.jpg
+│       ├── master-foam-sofa-refoaming.jpg
+│       ├── beds-bedroom-furniture.jpg
+│       ├── dressing-table-mirror-makeup.jpg
+│       ├── dining-tables-chairs.jpg
+│       ├── modern-plywood-furniture.jpg
+│       ├── modern-plywood-wardrobes.jpg
+│       ├── modular-kitchen-wood-cabinets.jpg
+│       ├── tv-units-media-consoles.jpg
+│       ├── wooden-door-carpentry.jpg
+│       ├── trolley-log-sawing-service.jpg
+│       └── firewood-yard-weighing-scale.jpg
+├── docs/                             # Ready for GitHub Pages /docs branch mode
+├── index.html                        # Pure semantic static HTML5 entry point
+├── styles.css                        # Pure custom CSS stylesheet
+├── script.js                         # Pure vanilla JavaScript
+├── README.md                         # English & Urdu documentation
+└── metadata.json
 ```
 
 ---
 
-## 📦 Deployment Instructions
+## 📞 Workshop Contacts
 
-### Deploying to Vercel (Recommended)
-1. Push this repository to your **GitHub** account.
-2. Go to [Vercel](https://vercel.com/) and click **"Add New Project"**.
-3. Import your GitHub repository.
-4. Vercel automatically detects Vite:
-   - **Framework Preset**: `Vite`
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist`
-   - **Install Command**: `npm install`
-5. Click **"Deploy"**. The site will be live on a fast, global CDN with SSL enabled.
-*(The included `vercel.json` ensures client-side routing and static assets load seamlessly).*
-
-### Deploying to Netlify
-1. Connect your repository in Netlify.
-2. Set **Build command**: `npm run build`.
-3. Set **Publish directory**: `dist`.
-4. Deploy!
-
----
-
-## 📁 Project Structure
-
-```
-├── public/
-│   └── assets/
-│       └── images/               # Local, high-resolution photography assets
-│           ├── hero-trolley-timber-sawmill.jpg
-│           ├── trolley-log-sawing-service.jpg
-│           ├── master-foam-sofa-refoaming.jpg
-│           ├── dressing-table-mirror-makeup.jpg
-│           ├── modern-plywood-wardrobes.jpg
-│           ├── modular-kitchen-wood-cabinets.jpg
-│           ├── wooden-door-carpentry.jpg
-│           ├── firewood-yard-weighing-scale.jpg
-│           ├── sofa-making-poshish.jpg
-│           ├── beds-bedroom-furniture.jpg
-│           ├── dining-tables-chairs.jpg
-│           ├── modern-plywood-furniture.jpg
-│           └── tv-units-media-consoles.jpg
-├── src/
-│   ├── components/
-│   │   ├── ContactModal.tsx      # Owner selector for Call/WhatsApp
-│   │   ├── FloatingContactWidget.tsx # Discreet quick-access button
-│   │   ├── Footer.tsx            # Comprehensive footer with contact info
-│   │   ├── ImageWithFallback.tsx # Reliable image loader with fallbacks
-│   │   ├── LightboxModal.tsx     # Fullscreen gallery zoom & inquiry
-│   │   └── Navbar.tsx            # Responsive desktop/mobile header
-│   ├── data/
-│   │   └── businessData.ts       # Services, owners, contacts, presets
-│   ├── pages/
-│   │   ├── HomePage.tsx          # Hero, intro, 12 service cards, process
-│   │   ├── AboutPage.tsx         # Workshop profile and brothers' story
-│   │   ├── ServicesPage.tsx      # Complete 12 services with category filter
-│   │   ├── GalleryPage.tsx       # 10-category photo showcase with zoom
-│   │   └── ContactPage.tsx       # Direct dialers & interactive WhatsApp composer
-│   ├── types/
-│   │   └── index.ts              # TypeScript interfaces
-│   ├── App.tsx                   # Main SPA router and modal state
-│   ├── index.css                 # Tailwind v4 theme styling & fonts
-│   └── main.tsx                  # React DOM entry point
-├── index.html                    # SEO metadata, OpenGraph, LocalBusiness schema
-├── package.json
-├── tsconfig.json
-├── vercel.json                   # Vercel SPA rewrite configuration
-└── vite.config.ts
-```
-
----
-
-## 📞 Business Contacts
-
-- **Zahid Abdul Sattar**: +92 300 4306527 (`tel:+923004306527` | `https://wa.me/923004306527`)
-- **Shahid Abdul Sattar**: +92 321 8672673 (`tel:+923218672673` | `https://wa.me/923218672673`)
-- **Location**: Kot Radha Kishan, Kasur, Punjab, Pakistan
+- **Zahid Abdul Sattar**: +92 300 4306527 (`https://wa.me/923004306527`)
+- **Shahid Abdul Sattar**: +92 321 8672673 (`https://wa.me/923218672673`)
+- **Location**: Kot Radha Kishan, District Kasur, Punjab, Pakistan
 - **Hours**: Saturday to Thursday: 8:00 AM – 8:00 PM PKT (Friday Closed)
